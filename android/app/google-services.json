@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "769029610808",
+    "firebase_url": "https://tech2mart.firebaseio.com",
+    "project_id": "tech2mart",
+    "storage_bucket": "tech2mart.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769029610808:android:c54788ea596f4919",
+        "android_client_info": {
+          "package_name": "com.tech2mart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "769029610808-gchbso41169ahv53l0f81sbqugh4fjpf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4N4R3jvoF1iTKScb3t3WEPId-i40r7Q0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "769029610808-gchbso41169ahv53l0f81sbqugh4fjpf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "769029610808-p569icjffvrscru57p62gh1dq8ef4nhs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rclabsc.tech2mart1"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

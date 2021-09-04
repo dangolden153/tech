@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>769029610808-p569icjffvrscru57p62gh1dq8ef4nhs.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.769029610808-p569icjffvrscru57p62gh1dq8ef4nhs</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCMIxgkO5sS0R9rMP-hmxsS1kNUCDZI56w</string>
+	<key>GCM_SENDER_ID</key>
+	<string>769029610808</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.rclabsc.tech2mart1</string>
+	<key>PROJECT_ID</key>
+	<string>tech2mart</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tech2mart.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:769029610808:ios:e11c10988f291ff7</string>
+	<key>DATABASE_URL</key>
+	<string>https://tech2mart.firebaseio.com</string>
+</dict>
+</plist>
